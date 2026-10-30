@@ -273,13 +273,9 @@ The dashboard uses a consistent healthcare-inspired color palette.
 
 <!-- Replace YOUR_LINKEDIN_POST_URL with the URL of your published LinkedIn post. -->
 
-[![Watch the Project Demo](https://img.shields.io/badge/LinkedIn-Watch%20Project%20Demo-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_POST_URL)
-
-**Video:** [View the full project demonstration on LinkedIn](YOUR_LINKEDIN_POST_URL)
-
-</div>
-
-> Replace `YOUR_LINKEDIN_POST_URL` in both locations above with the actual URL of your published LinkedIn post. The video itself is hosted on LinkedIn; GitHub provides a link to it.
+[![Watch the Project Demo](https://img.shields.io/badge/LinkedIn-Watch%20Project%20Demo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/p/e6ZN8gHA) 
+<br>
+**Video:** [View the full project demonstration on LinkedIn](https://lnkd.in/p/e6ZN8gHA) </div>
 
 ---
 
